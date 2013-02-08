@@ -1,6 +1,8 @@
 Puppet WebHooks
 ====
 
+This needs to be easier.
+
 [![Build Status](https://travis-ci.org/puppetlabs/puppet-webhooks.png?branch=master)](https://travis-ci.org/puppetlabs/puppet-webhooks)
 
 This project performs a job or jobs when a pull request event occurs on
